@@ -12,7 +12,7 @@ whynotsw-camp 1st-template 레포지토리입니다.
 - 목표: **데이터 기반 인사이트 도출 및 시각적 보고**
   
 ### 시각적 자료
-[프로젝트 기획서 다이어그램] 
+![프로젝트 기획서 다이어그램] 
 <img src="https://github.com/user-attachments/assets/4a615173-084f-46e1-bd0f-06c60b5574c4" width="600"/>
 
 
